@@ -1,48 +1,12 @@
-**Meme Generator 🎉**
+# React + Vite
 
-Create hilarious memes in minutes with this fun, React-based web app! Customize text, tweak images, and share your creations with ease.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-**✨ Features**
+Currently, two official plugins are available:
 
-Choose Templates: Pick from a variety of meme templates via the Imgflip API.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Style Text: Customize text with fonts, colors, sizes and more.
+## Expanding the ESLint configuration
 
-Edit Images: Adjust brightness, contrast, and saturation for the perfect look.
-
-Drag & Drop: Move text anywhere on the canvas with a simple drag.
-
-Preset Styles: Apply cool styles like classic, neon, or retro with one click.
-
-Save & Download: Store favorite memes or download them as PNG files.
-
-Undo/Redo: Easily revert or reapply changes with history controls.
-
-__________________________________________________________________________________________________________________________________________________
-
-**🛠️ Tech Stack**
-
-React: For a dynamic, interactive UI.
-
-JavaScript: Core logic and functionality.
-
-CSS3: Sleek styling with animations and responsive design.
-
-Imgflip API: Powers meme template selection.
-
-HTML5 Canvas: Renders and exports your memes.
-
-__________________________________________________________________________________________________________________________________________________
-
-
-**🎨 How to Use**
-
-Image Tab: Browse or search for meme templates to start your creation.
-
-Text Tab: Add and style text with options for font, color, and effects.
-
-Library Tab: Save your favorite memes or download them as PNGs.
-
-Drag Text: Click and drag to position text on the canvas.
-
-Undo/Redo: Use the history buttons to tweak your edits effortlessly.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
