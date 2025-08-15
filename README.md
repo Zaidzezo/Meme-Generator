@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 Choose Templates: Pick from a variety of meme templates via the Imgflip API.
 
-Style Text: Customize text with fonts, colors, sizes, rotation, and more.
+Style Text: Customize text with fonts, colors, sizes and more.
 
 Edit Images: Adjust brightness, contrast, and saturation for the perfect look.
 
@@ -20,7 +20,6 @@ Save & Download: Store favorite memes or download them as PNG files.
 
 Undo/Redo: Easily revert or reapply changes with history controls.
 
-Responsive: Works smoothly on both desktop and mobile devices.
 
 _______________________________________________________________________________________________________________________________________________________
 
