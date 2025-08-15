@@ -2,6 +2,8 @@
 
 Create hilarious memes in minutes with this fun, React-based web app! Customize text, tweak images, and share your creations with ease.
 
+<img width="1919" height="970" alt="Screenshot 2025-08-15 235924" src="https://github.com/user-attachments/assets/dfc68773-d5c9-491d-961c-db9f3892acfa" />
+
 _______________________________________________________________________________________________________________________________________________________
 
 **✨ Features**
